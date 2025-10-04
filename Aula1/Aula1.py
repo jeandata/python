@@ -1,6 +1,6 @@
 CONSTANTE_BONUS = 1000
 
-nome = input(("Digite seu nome:"))
+nome = input("Digite seu nome")
 
 salario = float(input("Digite o valor de seu salario:"))
 
